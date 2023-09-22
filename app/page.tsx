@@ -47,7 +47,7 @@ export default async function Page() {
                   className="absolute inline-flex w-full h-full duration-150 bg-green-400 rounded-full opacity-75 animate-ping"></span><span
                     className="relative inline-flex w-3 h-3 bg-green-400 rounded-full"></span></span> </span></div>
             <div className="ml-4 mr-auto text-left">
-              <h4 className="font-semibold">Katrina Sten <span
+              <h4 className="font-semibold">Chloe Bliss <span
                 className="px-2 py-1 text-sm text-green-500 bg-green-100 rounded-full shadow-green-400">Online Now</span>
               </h4>
               <p className="text-gray-500 text-md sm:text-lg">
